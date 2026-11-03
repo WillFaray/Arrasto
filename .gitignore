@@ -29,3 +29,5 @@ test-e2e.js
 test-*.png
 *.tmp
 create-repo.ps1
+
+*.tsbuildinfo
